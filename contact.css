@@ -1,0 +1,54 @@
+html{
+  height: 100%;
+}
+body {
+  width: 980px;
+  margin: 0 auto;
+}
+.contact th{
+  width:200px;
+}
+.submit{
+  text-align: center;
+}
+
+.image_area {
+  width: 100%;
+  text-align: center;
+  height: 300px;
+}
+
+th {
+  text-align: center;
+  background-color: lightgray;
+  height: 30px;
+  width: 200px;
+}
+
+td input {
+  height: 30px;
+  width: 400px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td textarea {
+  width: 400px;
+  height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
